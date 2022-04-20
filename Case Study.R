@@ -12,7 +12,7 @@ library("multcomp")
 
 my_data1 <- read.delim("C:\\Users\\omate\\Downloads\\caseStudy5(1).txt")
 my_data2 <- read.delim("C:\\Users\\omate\\OneDrive\\Documents\\caseStudy5(2).txt")
-my_data <- read.delim("C:\\Users\\omate\\Downloads\\caseStudy5.txt")
+my_data <- read.delim("https://github.com/SiddhuSiddharth/Magnets-and-Pain-Relief/blob/master/Polio.txt")
 
 # Plotting boxplot.
 
